@@ -36,8 +36,6 @@ df.head()
 
 df = df.drop(["PassengerId"], axis = 1)
 df = df.drop(["Name"], axis = 1)
-
-
 print("Unique Home Planets:", df['HomePlanet'].unique())
 planet_map = {"Europa": 1, "Earth": 2, "Mars": 3, np.nan: -1}  # Include np.nan mapping
 df["HomePlanet"] = df["HomePlanet"].map(planet_map).fillna(-1).astype(int)  # home planet to int
