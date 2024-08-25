@@ -55,5 +55,12 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/ezishr/spaceship-titanic.git
+2. **Change to `eirlys` branch**:
+   ```sh
+   git checkout eirlys
+4. **Install all the required dependencies inside a virtual environment**
+   ```sh
+   pip install -r requirements.txt
+5. 
 
