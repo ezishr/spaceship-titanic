@@ -1,4 +1,4 @@
-# Machine Learning Predictions - SpaceShip Titanic
+# SpaceShip Titanic - Machine Learning Predictions
 ## Objective
 This project aims to predict the destination of passengers aboard a fictional spaceship based on various features, including their home planet, age, and other personal characteristics. By analyzing the relationships between these variables, we aim to build a robust machine-learning model that accurately forecasts passenger destinations. This project also seeks to uncover insights into passenger demographics and behaviors that influence their likelihood of being transported to specific destinations, with a focus on improving feature engineering and model performance.
 
