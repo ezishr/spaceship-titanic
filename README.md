@@ -68,7 +68,7 @@ Ensure you have the following installed on your system:
    pip install -r requirements.txt
 6. **Run the Application**
     ```sh
-    python eda.ipynb
+    jupyter notebook
 
 ## Improvements to make
 This project was done just for the sake of learning ML deployment and practice, so far less focus has been given on optimizing model performances. Further improvements can be done:
