@@ -47,7 +47,7 @@ Follow these steps to set up and run the project on your local machine:
 
 Ensure you have the following installed on your system:
 
-- **Python: [Download here](https://www.python.org/downloads/)
+- **Python**: [Download here](https://www.python.org/downloads/)
 - **Git**: [Download here](https://git-scm.com/downloads)
 - **Virtual Environment**: Optional, but recommended for managing dependencies
 
@@ -59,8 +59,28 @@ Ensure you have the following installed on your system:
 2. **Change to `eirlys` branch**:
    ```sh
    git checkout eirlys
-4. **Install all the required dependencies inside a virtual environment**
+4. **Create and Activate a Virtual Environment**
+    ```sh
+    python -m venv env
+    source env/bin/activate  # On Windows use `env\Scripts\activate`
+5. **Install all the required dependencies inside a virtual environment**
    ```sh
    pip install -r requirements.txt
-5. 
+6. **Run the Application**
+    ```sh
+    jupyter notebook
 
+## Improvements to make
+This project was done just for the sake of learning ML deployment and practice, so far less focus has been given on optimizing model performances. Further improvements can be done:
+- Better cleansing methods which result in less bias and sparse features
+- Reducing the number of features through feature-selection
+- Optimizing more classification models with better accuracy methods
+
+## Contact
+For any questions or feedback, please reach out to:
+- **Name**: Eirlys Vo
+- **Email**: [vopq@mail.uc.edu](mailto:vopq@mail.uc.edu)
+- **GitHub**: [ezishr](https://github.com/your-github-ezishr)
+- **LinkedIn**: [Eirlys Vo](https://www.linkedin.com/in/phiquyvo/)
+
+Feel free to open an issue or submit a pull request if you have suggestions or improvements!
