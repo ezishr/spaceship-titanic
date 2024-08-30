@@ -80,7 +80,7 @@ This project was done just for the sake of learning ML deployment and practice, 
 For any questions or feedback, please reach out to:
 - **Name**: Eirlys Vo
 - **Email**: [vopq@mail.uc.edu](mailto:vopq@mail.uc.edu)
-- **GitHub**: [ezishr](https://github.com/your-github-ezishr)
+- **GitHub**: [ezishr](https://github.com/ezishr)
 - **LinkedIn**: [Eirlys Vo](https://www.linkedin.com/in/phiquyvo/)
 
 Feel free to open an issue or submit a pull request if you have suggestions or improvements!
